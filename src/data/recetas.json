@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Pasta Universitaria Rápida",
-      "imagen": "/placeholder-recipe.svg",
+      "imagen": "https://www.recetasnestle.com.do/sites/default/files/srh_recipes/f43deeada2eebdcc24033f3c974540c1.jpeg",
       "ingredientes": ["400g pasta", "1 lata tomate triturado", "2 dientes ajo", "100g queso parmesano", "Aceite de oliva", "Sal y pimienta"],
       "pasos": [
         "Hervir agua con sal y cocinar la pasta según instrucciones",
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "nombre": "Quesadillas de Pollo",
-      "imagen": "/placeholder-recipe.svg",
+      "imagen": "https://www.vvsupremo.com/wp-content/uploads/2016/12/Chipotle-Chicken-Quesadillas.jpg",
       "ingredientes": ["2 tortillas de harina", "150g pollo cocido", "100g queso oaxaca", "1/2 cebolla", "1 pimiento", "Aceite", "Sal"],
       "pasos": [
         "Picar el pollo, cebolla y pimiento en cubos pequeños",
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "nombre": "Arroz Frito Estudiantil",
-      "imagen": "/placeholder-recipe.svg",
+      "imagen": "https://pittsburghfoodbank.org/wp-content/uploads/2021/08/Friend-Rice.png",
       "ingredientes": ["2 tazas arroz cocido", "2 huevos", "100g jamón", "1 zanahoria", "Cebollín", "Salsa de soja", "Aceite"],
       "pasos": [
         "Batir los huevos y hacer una tortilla, cortar en tiras",

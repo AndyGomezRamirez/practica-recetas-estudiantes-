@@ -57,7 +57,7 @@
     {
       "id": 4,
       "nombre": "Sandwich Club Estudiantil",
-      "imagen": "/placeholder-recipe.svg",
+      "imagen": "https://placeres.pe/wp-content/uploads/2023/11/Post.jpg",
       "ingredientes": ["3 rebanadas pan integral", "150g pechuga pollo", "4 rebanadas tocino", "Lechuga", "Tomate", "Mayonesa", "Aguacate"],
       "pasos": [
         "Tostar las rebanadas de pan",
